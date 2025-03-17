@@ -1,4 +1,6 @@
 <template>
+  <!-- Este es un comentario añadido como prueba -->
+
   <div class="header-bg" :class="$route.path == '/' && 'header-bg--hero'"></div>
   <div class="container">
     <TheHeader />
